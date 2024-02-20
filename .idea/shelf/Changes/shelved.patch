@@ -1,0 +1,51 @@
+Index: 1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>a = int(input(\"Значение:\"))\r\nb = int((a - 96*48)/6)\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/1.py b/1.py
+--- a/1.py	(revision f292a8c8cf8527a881c6a74f918d5f5ff0a568fb)
++++ b/1.py	(date 1708435928653)
+@@ -1,2 +1,3 @@
+ a = int(input("Значение:"))
+ b = int((a - 96*48)/6)
++print(b)
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1708435547759)
++++ b/.idea/vcs.xml	(date 1708435547759)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.9 (practice2)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision f292a8c8cf8527a881c6a74f918d5f5ff0a568fb)
++++ b/.idea/misc.xml	(date 1708433881972)
+@@ -1,4 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.9 (practice2)" />
++  </component>
+   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (practice2)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
