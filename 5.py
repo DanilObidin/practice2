@@ -1,3 +1,3 @@
 v = float(input("Введите значение:"))
-p = round(0.19*v, 1)
+p = (0.19*v)
 print(f"{p:.2f}")
