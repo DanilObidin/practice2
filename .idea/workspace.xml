@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="589d85db-1ed4-4fd1-bc31-a90f75898aa7" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-    </list>
+    <list default="true" id="589d85db-1ed4-4fd1-bc31-a90f75898aa7" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,16 +20,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN"
+      &quot;state&quot;: &quot;OPEN&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,7 +39,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -58,6 +55,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
     "Python.codecs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,9 +67,14 @@
     "ToolWindowCommit.ShowToolbar": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/dan27/d.py",
-    "settings.editor.selected.configurable": "configurable.group.project"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\dan27\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="fce76ca2-0967-4d85-a572-e14fba12c0a8" reportId="practice2/qodana/2024-02-21" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -116,7 +123,63 @@
       <option name="project" value="LOCAL" />
       <updated>1708436380346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708436664229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708436664229</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708436681004</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708436681004</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708436703204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708436703204</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708509425917</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708509425917</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708510322757</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708510322757</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708512734522</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708512734522</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708522695387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708522695388</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
